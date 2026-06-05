@@ -59,7 +59,7 @@ class _IoTPageState extends State<IoTPage> {
 
   // ================= ANTARES =================
   final String accessKey =
-      "acb2e00268b315d0:21be660be80a4ad1";
+      " ";
 
   final String projectName =
       "Testing_IOT";
