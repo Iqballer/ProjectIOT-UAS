@@ -5,7 +5,7 @@
 #include <AntaresESPHTTP.h>
 
 // ================= WIFI =================
-#define ACCESSKEY "acb2e00268b315d0:21be660be80a4ad1"
+#define ACCESSKEY ""
 #define WIFISSID "ball"
 #define PASSWORD "tplu1234"
 
